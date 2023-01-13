@@ -31,11 +31,11 @@
 ## 📫 How to reach me: 
 
 <a href="https://twitter.com/ayush2432pandey">
-  <img align="left" alt="" width="150px" src="https://img.shields.io/badge/sheikhsahab-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img align="left" alt="" width="150px" src="https://img.shields.io/badge/AyushPandey-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
  <a href = "mailto: ayush2432pandey@gmail.com">
-  <img align="left" alt="" width="150px" height="40px" src="https://img.shields.io/badge/sheikhsahab-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img align="left" alt="" width="150px" height="40px" src="https://img.shields.io/badge/AyushPandey-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ayush-pandey-185183197/">
-  <img align="left" alt="" width="150px" src="https://img.shields.io/badge/Sheikhsahab-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="" width="150px" src="https://img.shields.io/badge/Ayush{andey-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
