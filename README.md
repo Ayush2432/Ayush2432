@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - B.tech (Electronics and Communication Engineering)
-- 🧑‍🎓 Student at BIET Jhansi
+- 🧑‍🎓 Graduated from BIET Jhansi
 - 👨‍💻 Web Developer 
 - 🌱 I’m currently learning React.js and Node.js
 
 
-## I Code Using:
+## I Code Using: 
 
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
