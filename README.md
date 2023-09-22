@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- SDE intern @Metalcam
 - B.tech (Electronics and Communication Engineering)
 - 🧑‍🎓 Graduated from BIET Jhansi
 - 👨‍💻 Web Developer 
@@ -36,6 +37,6 @@
  <a href = "mailto: ayush2432pandey@gmail.com">
   <img align="left" alt="" width="150px" height="40px" src="https://img.shields.io/badge/AyushPandey-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ayush-pandey-185183197/">
+<a href="https://www.linkedin.com/in/ayush2432pandey/">
   <img align="left" alt="" width="150px" src="https://img.shields.io/badge/AyushPandey-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
