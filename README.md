@@ -3,7 +3,7 @@
 - SDE intern @Metalcam
 - B.tech (Electronics and Communication Engineering)
 - 🧑‍🎓 Graduated from BIET Jhansi
-- 👨‍💻 Web Developer 
+- 👨‍💻 Software Developer 
 - 🌱 I’m currently learning React.js and Node.js
 
 
