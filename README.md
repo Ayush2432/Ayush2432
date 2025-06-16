@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- SDE intern @Metalcam
+- SDE @Metalcam
 - B.tech (Electronics and Communication Engineering)
 - 🧑‍🎓 Graduated from BIET Jhansi
 - 👨‍💻 Software Developer 
