@@ -4,7 +4,7 @@
 - B.tech (Electronics and Communication Engineering)
 - 🧑‍🎓 Graduated from BIET Jhansi
 - 👨‍💻 Software Developer 
-- 🌱 I’m currently learning React.js and Node.js
+- 🌱 I’m currently learning to make desktop applications via using WPF , java, springBoot
 
 
 ## I Code Using: 
